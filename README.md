@@ -1,1 +1,0 @@
-# ryanriparetti.github.io
