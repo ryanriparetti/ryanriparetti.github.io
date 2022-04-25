@@ -6,16 +6,26 @@ This portfolio is meant to display two things:
 
 The following notebook pages are of topics that personally interest me. As these topics and datasets genuinely interest me, I am able to ask more effective questions that help me explore the data. 
 
-## Recommender systems of beers 
+## Whole Projects
+
+### Recommender systems of beers
 When I drink beer, I typically play it safe, getting the same beer styles or the same beer over and over without really looking for anything new. 
 This notebook from Kaggle compiled reviews from BeerAdvocate.com, in which I was able to build recommendation systems for any beer in that dataset.
 
-## Glass classification
+Displayed skills:
+
+### Glass classification
+This notebook looks at the chemical composition of 6 types of glass, of about 200 entries. From this, we can extract binary features (e.g. type 1 or not type 1) as well as numerical features such as refractive index and chemical composition. 
+
+Displayed skills:
+
+### Steam games reviews
+This notebook looks at 40000 games for sale on Steam, which is a popular service to buy games. The most interesting part of this database is that it contains tags, e.g. all the classifications of games, as well as the user reviews, including number of reviews and overall rating.
+
+Displayed skills:
 
 
-## Steam games reviews
-This notebook looks at 40000 games for sale on Steam, which is a popular service to buy games. 
-
-## Path of Exile character information
+### Path of Exile character information
 This notebook pulls information from Path of Exile's API. Path of Exile is an Action-RPG akin to Diablo II. In Path of Exile, there are many ways to customize and build your character. As such, this notebook pulls from the API to give a plethora of information of the top 15,000 characters, including class, level, items equipped, what skills they use, etc. 
 
+Displayed skills:
