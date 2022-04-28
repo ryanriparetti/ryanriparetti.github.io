@@ -15,7 +15,11 @@ This notebook from Kaggle compiled reviews from BeerAdvocate.com, in which I was
 Displayed skills:
 
 ### Glass classification
-This notebook looks at the chemical composition of 6 types of glass, of about 200 entries. From this, we can extract binary features (e.g. type 1 or not type 1) as well as numerical features such as refractive index and chemical composition. 
+This notebook looks at the chemical composition of 6 types of glass, of about 200 entries. From this, we can extract binary features (e.g. type 1 or not type 1) as well as numerical features such as refractive index and chemical composition. It would be very interesting to test different models (e.g. KNN, Logistic Regression, Decision Tree vs Random Forest) to see which model can best separate the 
+
+Displayed skills:
+
+
 
 Displayed skills:
 
