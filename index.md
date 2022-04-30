@@ -13,6 +13,7 @@ When I drink beer, I typically play it safe, getting the same beer styles or the
 This notebook from Kaggle compiled reviews from BeerAdvocate.com, in which I was able to build recommendation systems for any beer in that dataset. In addition to that, I was able to build a rudimentary search and recommend loop. 
 
 [NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/Beer_Reviews.ipynb)
+
 Displayed skills: Recommender Systems, Visualization, Data Cleaning
 
 ### Analysis and Prediction of a Car's Footprint
