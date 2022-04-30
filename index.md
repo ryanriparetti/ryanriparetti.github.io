@@ -12,15 +12,15 @@ The following notebooks are about topics that personally interest me, and allow 
 When I drink beer, I typically play it safe, getting the same beer styles or the same beer over and over without really looking for anything new. 
 This notebook from Kaggle compiled reviews from BeerAdvocate.com, in which I was able to build recommendation systems for any beer in that dataset. In addition to that, I was able to build a rudimentary search and recommend loop. 
 
-[NBviewer]()
-Displayed skills: Recommender Systems, Data Visualization, Data Cleaning
+[NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/Beer_Reviews.ipynb)
+Displayed skills: Recommender Systems, Visualization, Data Cleaning
 
 ### Analysis and Prediction of a Car's Footprint
 Every now and then I think I should get a new car that is far more fuel efficient and likely comes with better features and a higher safety rating than a car made 13 years ago. In a world where cars can get past 60 mpg, mine is less than half of that. In this notebook using data from Kaggle, I evaluate more than 900 car models and try to predict their CO2 and smog rating (from a scale of 1 to 10), while also looking at the relation between a number of features and CO2 emissions.
 
 [NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/2022%20Fuel%20Consumption%20Rating.ipynb)
 
-Displayed skills: RandomizedSearchCV, Linear Regression, Random Forest, Neural Network, Logistic Regression
+Displayed skills: Visualization, Multinomial Regression, Logistic Regression
 
 
 
@@ -31,8 +31,6 @@ This notebook looks at the chemical composition of 6 types of glass, of about 20
 Displayed skills:
 
 
-
-Displayed skills:
 
 ### Steam games reviews
 This notebook looks at 40000 games for sale on Steam, which is a popular service to buy games. The most interesting part of this database is that it contains tags, e.g. all the classifications of games, as well as the user reviews, including number of reviews and overall rating.
