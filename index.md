@@ -1,45 +1,30 @@
 # Portfolio by Ryan Riparetti
 
-This portfolio is meant to display two things:
-1. The skills I have learned from resources such as Python Crash Course and Jose Portilla's "Python For Data Science and Machine Learning Bootcamp" on Udemy.
-2. My innate ability to self-learn, and be engaged within a subject matter unfamiliar to me.
-
-The following notebooks are about topics that personally interest me, and allow me to genuinely try to come up with insights and scripts that I want to use, or can see myself, a friend, or a colleague using. 
+This portfolio is meant to display the proficiencies I have learned, as well as the exploration of topics that genuinely interest me. 
 
 ## Projects
 
 ### Recommender systems of beers
-When I drink beer, I typically play it safe, getting the same beer styles or the same beer over and over without really looking for anything new. 
-This notebook from Kaggle compiled reviews from BeerAdvocate.com, in which I was able to build recommendation systems for any beer in that dataset. In addition to that, I was able to build a rudimentary search and recommend loop. 
+When I drink beer, I typically play it safe, getting the same beer styles or the same beer over and over without really looking for anything new. This notebook explored more than a million beer reviews found on Kaggle, using data from BeerAdvocate.com. In this dataset, I build a recommendation system and a dashboard to visualize recommendations pulled from the reviews.
 
 [NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/Beer_Reviews.ipynb)
 
-Displayed skills: Recommender Systems, Visualization, Data Cleaning
-
 ### Analysis and Prediction of a Car's Footprint
-Every now and then I think I should get a new car that is far more fuel efficient and likely comes with better features and a higher safety rating than a car made 13 years ago. In a world where cars can get past 60 mpg, mine is less than half of that. In this notebook using data from Kaggle, I evaluate more than 900 car models and try to predict their CO2 and smog rating (from a scale of 1 to 10), while also looking at the relation between a number of features and CO2 emissions.
+In a world where cars can reach more than 60 miles per gallon in fuel efficiency, my car is reaching about 24 mpg. This notebook looks at 900 car models, pulling from a dataset from Kaggle, to generate a prediction on CO<sub>2</sub> emissions. Taking the most important features, I made a dashboard, allowing the user to input certain features to estimate the CO2 emissions.
 
 [NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/2022%20Fuel%20Consumption%20Rating.ipynb)
 
-Displayed skills: Visualization, Multinomial Regression, Logistic Regression
 
+### Path of Exile inventory and build analysis
 
+Path of Exile, the spiritual successor to the Diablo II, is a loot-driven game. Items picked up in the game can make and break builds, and as such, there is always a need for third party programs. One program, poe.ninja, offers a breakdown of the top characters on the ladder. There is a use to improve this, by looking at items that glue the build together to make it functional. I aim to pull the items that I acquired and pull the items that the leaders on the ladder use, to generate build ideas based on what I have. 
 
-### Glass classification
+### Indianapolis Potholes
 
-This notebook looks at the chemical composition of 6 types of glass, of about 200 entries. From this, we can extract binary features (e.g. type 1 or not type 1) as well as numerical features such as refractive index and chemical composition. It would be very interesting to test different models (e.g. KNN, Logistic Regression, Decision Tree vs Random Forest) to see which model can best separate the 
-
-Displayed skills:
-
-
-
-### Steam games reviews
-This notebook looks at 40000 games for sale on Steam, which is a popular service to buy games. The most interesting part of this database is that it contains tags, e.g. all the classifications of games, as well as the user reviews, including number of reviews and overall rating.
-
-Displayed skills:
+Indianapolis roads were a major adjustment for me to get used to. Almost every winter, I hit a pothole which causes my tire to lose pressure and is a major hassle. There is a public dataset from Socrata that compiled pothole requests over a certain time period. This notebook analyzes the relationship between the contact method (how the pothole was reported) compared to the length of time it'd take to close the pothole report. 
 
 
 ### Path of Exile character information
-This notebook pulls information from Path of Exile's API. Path of Exile is an Action-RPG akin to Diablo II. In Path of Exile, there are many ways to customize and build your character. As such, this notebook pulls from the API to give a plethora of information of the top 15,000 characters, including class, level, items equipped, what skills they use, etc. 
 
-Displayed skills:
+Path of Exile is an Action-RPG akin to Diablo II. In Path of Exile, there are many ways to build your character. This notebook pulls from the games API to give a plethora of information of the top 15000 characters of the league, including class, level, items equipped, what skills they use, etc. 
+
