@@ -16,4 +16,4 @@ Path of Exile, the spiritual successor to the Diablo II, is a seasonal ARPG. Eac
 
 ### [Indianapolis Potholes]()
 
-Indianapolis roads were a major adjustment for me to get used to. Every winter and especially in the early Spring as the weather warms up, Indianapolis roads are littered with potholes. There is a public dataset from Socrata that compiled pothole requests over a certain time period. This notebook analyzes the relationship between the contact method (how the pothole was reported) among other features to model how long the pothole report will remain active.
+Indianapolis roads were a major adjustment for me to get used to. Every winter and especially in the early Spring as the weather warms up, Indianapolis roads are littered with potholes. There is a public dataset from Socrata that compiled pothole repair requests over a certain time period. This notebook analyzes the relationship between the contact method (how the pothole was reported) among other features to model how long the pothole report will remain active.
