@@ -4,10 +4,8 @@ This portfolio is meant to display the proficiencies I have learned, as well as 
 
 ## Projects
 
-### Recommender systems of beers
+### [Recommender systems of beers](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/Beer_Reviews.ipynb)
 When I drink beer, I typically get similarly-styled beers or even the same beer without really looking for anything new. I used this project as a means to help me suggest beers from other beers that others have liked. This notebook explored more than a million beer reviews found on Kaggle, using data from BeerAdvocate.com. In this dataset, I build a recommendation system and a very simple dashboard to visualize recommendations pulled from the reviews.
-
-[NBviewer](https://nbviewer.org/github/ryanriparetti/ryanriparetti.github.io/blob/main/Beer_Reviews.ipynb)
 
 ### Analysis and Prediction of a Car's Footprint
 In a world where cars can reach more than 60 miles per gallon in fuel efficiency, my car falls short. This notebook looks at 900 car models, pulling from a dataset from Kaggle, to generate a model that can predict CO<sub>2</sub> emissions based on a number of obvious and un-obvious features.
